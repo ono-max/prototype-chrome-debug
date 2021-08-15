@@ -1,0 +1,22 @@
+{
+  "name": "prototype-chrome-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ono-max/prototype-chrome-debug.git"
+  },
+  "author": "ono-max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ono-max/prototype-chrome-debug/issues"
+  },
+  "homepage": "https://github.com/ono-max/prototype-chrome-debug#readme",
+  "dependencies": {
+    "chrome-remote-interface": "^0.31.0"
+  }
+}
